@@ -1,7 +1,7 @@
 {
-  "name": "roc-template-web",
-  "version": "1.0.0",
-  "description": "A simple start on a generic web application for Roc",
+  "name": "roc-template-web-module",
+  "version": "0.0.1",
+  "description": "A simple start on a generic web module for Roc",
   "roc": "^1.0.0-alpha",
   "author": "VG",
   "license": "MIT",
@@ -10,6 +10,6 @@
   ],
   "dependencies": {
       "roc": "*",
-      "roc-web": "*"
+      "roc-web-module": "*"
   }
 }
